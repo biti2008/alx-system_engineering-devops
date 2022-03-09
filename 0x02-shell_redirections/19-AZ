@@ -1,3 +1,2 @@
-tr 'A' 'Z' | tr 'c' 'e'[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C#!/bin/bash
+#!/bin/bash
 tr 'A' 'Z' | tr 'c' 'e'
