@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Holberton School" > \\\*\\\\"'\"Holberton School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)"
+tr 'A' 'Z' | tr 'c' 'e'
